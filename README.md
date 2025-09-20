@@ -49,7 +49,7 @@ Me chamo Cecília, sou Engenheira da Computação em formação, residente em S�
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </p>
 
-
+<!-- 
 ## 📊 Estatísticas  
 
 🔒 A maior parte do meu trabalho está em **repositórios privados**, então as estatísticas abaixo refletem apenas meus projetos públicos.
@@ -58,7 +58,7 @@ Me chamo Cecília, sou Engenheira da Computação em formação, residente em S�
   <img src="https://github-readme-stats.vercel.app/api?username=ceciliagalvaoo&rank_icon=github&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliagalvaoo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" height="180"/>
 </p>
-
+-->
 
 
 
